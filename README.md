@@ -8,7 +8,7 @@
 I have 8+ Years of experience in Backend development and building Web/Mobile based Products.
 My day job consists of being a Tech Architect, Developer, SRE/DevOps or DBA, sometimes all. I try to build stuff in hopes of making life easier for mankind.
 
-Currently working full time at [![Apna][7.1]][apna]
+Currently coding for [![Apna][7.1]][apna] in my day job.
 
 
 ###  🤔 Have something on your mind? Get in touch.
