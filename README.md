@@ -5,7 +5,7 @@ I'm a Senior Software Engineer from Bangalore with over 8 years of experience in
 🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, GCP, AWS, Go, and Kubernetes.
 
 ## 🚀 What I'm up to
-- Currently architecting innovative solutions at [Privyr] (https://www.privyr.com/)
+- Currently architecting innovative solutions at [Privyr](https://www.privyr.com/)
 - Exploring AI and its potential to revolutionize technology
 
 ## 🛠️ My Toolbox
