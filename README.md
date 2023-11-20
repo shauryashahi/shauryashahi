@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer from Bangalore with over 8 years of experience in backend development and building scalable web/mobile products.
 
-🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, GCP, AWS, Go, and Kubernetes.
+🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, Javascript, GCP, AWS, Go, and Kubernetes.
 
 [![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
 
