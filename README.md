@@ -1,14 +1,28 @@
-# 👋 Hello World  🇮🇳
+# 👋 Hi, I'm Shaurya!
 
+I'm a Senior Software Engineer from Bangalore with over 8 years of experience in backend development and building scalable web/mobile products.
 
-[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
+🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, GCP, AWS, Go, and Kubernetes.
 
-I have 8+ Years of experience in Backend development and building Web/Mobile based Products.
-My day job consists of being a Tech Architect, Developer, SRE/DevOps or DBA, sometimes all. I try to build stuff in hopes of making life easier for mankind.
+## 🚀 What I'm up to
+- Currently architecting innovative solutions at [Privyr] (https://www.privyr.com/)
+- Exploring AI and its potential to revolutionize technology
 
+## 🛠️ My Toolbox
+- **Languages:** Python, Go, JavaScript, Ruby
+- **Frameworks:** Django, FastAPI, React, Ruby On Rails
+- **Technologies:** GCP, AWS, Kubernetes, Docker
 
-###  🤔 Have something on your mind? Get in touch.
-[![gmail][6.1]][gmail]
+## 📫 Get in Touch
+- Twitter: ![Twitter][1.1][twitter]
+- LinkedIn: ![LinkedIn][2.1][linkedin]
+- Instagram: ![Instagram][5.1][insta]
+- Medium: ![Medium][4.1][medium]
+- Email: ![Email][6.1][gmail]
+
+## 👀 More About Me
+- I enjoy watching soccer, learning about AGI, and investing.
+- On weekends, I love traveling and spending quality time with friends and family.
 
 [1.1]: https://img.shields.io/badge/Twitter-00acee
 [2.1]: https://img.shields.io/badge/Linked_In-0e76a8
@@ -20,5 +34,4 @@ My day job consists of being a Tech Architect, Developer, SRE/DevOps or DBA, som
 [twitter]: https://twitter.com/shauryashahi
 [insta]: https://www.instagram.com/shauryashahi/
 [medium]: https://medium.com/@shauryashahi
-[apna]: https://apna.co
 [gmail]: mailto:shahi.shaurya@gmail.com
