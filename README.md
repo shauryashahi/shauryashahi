@@ -10,7 +10,7 @@ In addition to my technical contributions, I led engineering teams, guiding stra
 
 My expertise spans backend development, system architecture, and full-stack development, with a strong focus on project management and strategic planning. I am driven to develop scalable technology solutions that advance industries and simplify lives. Let's connect and explore potential collaborations for technological advancement.
 
-🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, Javascript, GCP, AWS, Go.
+🔭 I’ve worked on projects that have reached millions, and I specialize in Python, Django, Javascript, GCP, AWS, Ruby on Rails.
 
 [![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
 
