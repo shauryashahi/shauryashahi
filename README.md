@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaurya!
 
-A seasoned Software Engineer with deep experience in foundational and leadership roles across fast-scaling startups and transformative technology companies. At Privyr, I managed a sophisticated cloud infrastructure utilizing AWS and GCP, leading coding initiatives and architectural developments that boosted platform capabilities in alignment with strategic goals.
+A seasoned Software Engineer with deep experience in foundational and leadership roles across fast-scaling startups and transformative technology companies.
 
 As a founding engineer and later Tech Lead at Apna, I architected and scaled a platform that revolutionized the job market for millions of blue-collar workers in India, significantly enhancing system functionality and user experiences.
 
