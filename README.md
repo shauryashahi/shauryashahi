@@ -15,8 +15,7 @@ My expertise spans backend development, system architecture, and full-stack deve
 [![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
 
 ## 🚀 What I'm up to
-- Currently on a break, Learning about AI and ML, Building small side projects.
-- Exploring AI and its potential to revolutionize technology
+- Senior Engineer at Protect AI.
 
 ## 🛠️ My Toolbox
 - **Languages:** Python, Go, JavaScript, Ruby
