@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Shaurya!
 
+As of April 2025, I have joined Protect AI. 
+
+-------
+
 A seasoned Software Engineer with deep experience in foundational and leadership roles across fast-scaling startups and transformative technology companies.
 
 As a founding engineer and later Tech Lead at Apna, I architected and scaled a platform that revolutionized the job market for millions of blue-collar workers in India, significantly enhancing system functionality and user experiences.
