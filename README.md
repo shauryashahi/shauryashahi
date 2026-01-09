@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaurya!
 
-As of April 2025, I have joined Protect AI. 
+As of January 2026, I am working as a Principal Engineer at Palo Alto Networks.. 
 
 -------
 
@@ -18,8 +18,8 @@ My expertise spans backend development, system architecture, and full-stack deve
 
 [![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Medium][4.1]][medium]  [![Instagram][5.1]][insta]
 
-## 🚀 What I'm up to
-- Senior Engineer at Protect AI.
+## 🚀 What I'm up to.
+- Principal Engineer at Palo Alto Networks
 
 ## 🛠️ My Toolbox
 - **Languages:** Python, Go, JavaScript, Ruby
@@ -28,7 +28,7 @@ My expertise spans backend development, system architecture, and full-stack deve
 
 ## 👀 More About Me
 - I enjoy watching soccer, learning about AGI, and investing.
-- On weekends, I love traveling and spending quality time with friends and family.
+- On weekends, I love traveling, playing my PS5 and spending quality time with friends and family.
 
 [1.1]: https://img.shields.io/badge/Twitter-00acee
 [2.1]: https://img.shields.io/badge/Linked_In-0e76a8
